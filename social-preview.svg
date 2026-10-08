@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">中国人在澳洲生活百科 · AUDADA 澳搭搭</title>
+  <desc id="desc">在澳洲，把日子过明白。住房、医疗、工作、税务、教育和家庭。</desc>
+  <rect width="1200" height="630" fill="#f8f8f5"/>
+  <path d="M780 0H1200V630H1010L760 330Z" fill="#f6df38"/>
+  <g font-family="Microsoft YaHei, PingFang SC, sans-serif" fill="#202329">
+    <rect x="66" y="53" width="52" height="52" rx="13" fill="#f6df38" transform="rotate(-5 92 79)"/>
+    <text x="77" y="90" font-size="32" font-weight="bold">搭</text>
+    <text x="136" y="81" font-size="23" font-weight="bold">AUDADA 澳搭搭</text>
+    <text x="67" y="158" font-size="17" letter-spacing="3" fill="#245448">中国人在澳洲生活百科</text>
+    <text x="64" y="265" font-size="75" font-weight="bold">在澳洲，</text>
+    <rect x="64" y="344" width="505" height="28" fill="#f6df38"/>
+    <text x="64" y="365" font-size="75" font-weight="bold">把日子过明白。</text>
+    <text x="67" y="426" font-size="23" fill="#59616b">住房 · 医疗 · 工作 · 税务 · 教育 · 家庭</text>
+    <text x="67" y="477" font-size="19" fill="#59616b">中文讲清楚　英文用得上　官方依据找得到</text>
+    <text x="67" y="570" font-size="16" fill="#245448">OPEN KNOWLEDGE / 开放共享的生活工具书</text>
+    <g transform="translate(840 145) rotate(8 125 165)">
+      <rect width="257" height="327" rx="20" fill="#202329"/>
+      <rect x="22" y="22" width="213" height="282" rx="10" fill="#fffdf0"/>
+      <text x="45" y="75" font-size="23" font-weight="bold">生活，有章可循。</text>
+      <g stroke="#d8dacf" stroke-width="2"><path d="M45 117H210M45 167H210M45 217H210M45 267H210"/></g>
+      <g font-size="16"><text x="47" y="108">01　先确认适用范围</text><text x="47" y="158">02　备好材料和问题</text><text x="47" y="208">03　办好眼前这件事</text><text x="47" y="258">04　留好下一步记录</text></g>
+    </g>
+  </g>
+</svg>

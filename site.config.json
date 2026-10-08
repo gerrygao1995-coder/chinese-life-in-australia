@@ -1,0 +1,18 @@
+{
+  "title": "中国人在澳洲生活百科",
+  "brand": "AUDADA 澳搭搭",
+  "edition": "2026 年 10 月版",
+  "reviewDate": "2026-10-09",
+  "origin": "https://audada.com",
+  "basePath": "/life-guide/",
+  "audadaHome": "https://audada.com/",
+  "minimumBodyUnits": 555640,
+  "requiredSeries": {
+    "G": 2,
+    "H": 64,
+    "M": 64,
+    "R": 64
+  },
+  "description": "面向留学生、工作者、新移民、家庭与探亲父母的澳洲中文生活百科：身份、住房、医疗、工作、税务、教育、家庭、出行和日常办事。",
+  "repository": "https://github.com/gerrygao1995-coder/chinese-life-in-australia"
+}

@@ -1,0 +1,21 @@
+{
+  "status": "publication checks passed",
+  "articles": 194,
+  "htmlPages": 203,
+  "internalLinksChecked": 13198,
+  "uniqueBodyUnits": 670039,
+  "paragraphBodyUnits": 571472,
+  "paragraphBodyRatio": 10.284932690231084,
+  "baselineBodyUnits": 55564,
+  "ratio": 12.05886905190411,
+  "externalLinks": "source review is recorded per article; this validator does not claim live accessibility or professional correctness",
+  "checks": [
+    "canonical length and deduplication",
+    "minimum article depth",
+    "article identifiers and source metadata",
+    "all HTML internal file/anchor links",
+    "Chinese document language",
+    "application JavaScript syntax",
+    "search index coverage"
+  ]
+}

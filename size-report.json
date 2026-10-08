@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "reviewed": "2026-10-09",
+  "articles": 194,
+  "sections": 2670,
+  "rawBodyUnits": 670353,
+  "uniqueBodyUnits": 670039,
+  "paragraphBodyUnits": 571472,
+  "paragraphBodyRatio": 10.284932690231084,
+  "exactRepeatedUnitsExcluded": 314,
+  "baselineBodyUnits": 55564,
+  "ratio": 12.05886905190411,
+  "requiredRatio": 10,
+  "targetBodyUnits": 555640,
+  "complete": true,
+  "sources": 825,
+  "duplicateLongFragments": [],
+  "method": "Each Han ideograph and each continuous Latin/number word counts as one typographic unit. Canonical article title, summary, section headings/body/bullets, terms and completion items only. URLs, source titles, metadata, code, navigation, repeated formats and exact repeated fragments excluded. Not a language-semantic or quality equivalence."
+}

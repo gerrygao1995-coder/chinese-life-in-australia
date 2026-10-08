@@ -1,0 +1,8 @@
+{
+  "project": "Live Better Australia",
+  "version": "1.1.0",
+  "commit": "1823c564826d8d8955f14069b7cbd004779540ae",
+  "bodyUnits": 55564,
+  "scope": "All canonical chapter titles/intros; all 720 entry titles/actions/costs/payoffs/scope; distinct featured framing and three checklists; Start here, 16 scenario routes and editorial policy. Website/code, repeated rendered formats, source index, source titles and URLs excluded. Baseline retained without cross-fragment deduplication for a conservative comparison.",
+  "method": "One Han ideograph or one continuous Latin/number word = one typographic unit; URLs removed. Same tokenizer as new corpus. Not semantic equivalence across languages."
+}
